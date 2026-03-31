@@ -123,7 +123,7 @@ void addRecord(User* current) {
 
     cout << "تم اضافة السجل!\n";
 }
-
+cout<<"[!]<<library-books.txt"<<endl;
 // عرض السجلات الخاصة بالمستخدم
 void viewRecords(User* current) {
     string archiveName;
